@@ -139,7 +139,7 @@
 ### Overlay
 
 *Display overlay / modal / alert / dialog / lightbox / popup*
-
+ - [react-popper](https://github.com/souporserious/react-popper) - React wrapper around PopperJS
  - [react-dock](https://github.com/alexkuz/react-dock) - Resizable dockable react component.
  - [react-overlays](https://github.com/react-bootstrap/react-overlays) - Utilities for creating robust overlay components.
  - [boron](https://github.com/yuanyan/boron) - A collection of dialog animations with React.js.
